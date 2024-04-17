@@ -1,0 +1,29 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+parts:
+  - caption: About
+    chapters:
+      - file: dlcl203
+  - caption: Sewing
+    chapters:
+      - file: sewing
+        title: "Overview"
+  - caption: Crochet
+    chapters:
+      - file: crochet
+        title: "Overview"
+  - caption: Knitting
+    chapters:
+      - file: knitting
+        title: "Overview"
+  - caption: Weaving
+    chapters:
+      - file: weaving
+        title: "Overview"
+  - caption: Spinning
+    chapters:
+      - file: spinning
+        title: "Overview"

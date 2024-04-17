@@ -1,54 +1,88 @@
 # DLCL 203: Data Visualization with Textiles
 
-_DLCL 203: Data Visualization with Textiles_ is a 1-3 credit course offered by Quinn Dombrowski at Stanford University. It is by necessity organized as an independent study, not least because 25 people will not comfortably fit in the [Textile Makerspace](https://textilemakerspace.stanford.edu) at the same time.
+## Week 1: Welcome
 
-The course is designed to introduce students to thinking about data: how do you go from reality to data? What are things that aren't obviously numeric that we can turn into data? How do you pick a textile medium to visualize your data, and what are the implications of different options? How do you incorporate different techniques and affordances of your chosen textile medium to represent aspects of the data? What is the relationship between _storytelling_ and _visualizing data_? We'll also be practicing _trying something_ as a way of getting unstuck and overcoming decision paralysis.
+First week schedules are often chaotic, so it's okay if you don't make it into the Textile Makerspace to check it out this week. The Makerspace schedule will be adapted starting in week 2 to better accommodate the needs of students in the class.
 
-## Week 1: Welcome to Data Visualization with Textiles
+For this week:
 
-For the first week of the quarter, you'll read a little about data, the history of data and textiles, and some of the options supported by the Textile Makerspace. Hopefully you can find a time to come visit the Textile Makerspace, or plan a visit for week 2.
+- Fill out the [Makerspace hoursLinks to an external site.](https://forms.gle/yXPwS2gcCfG7i5m2A) survey
+- Fill out the [workshop scheduling and interest surveyLinks to an external site.](https://forms.gle/muaGRoqLh8yEWqZt7)
+- [Read excerpt from "Observe, Collect, Draw!"](https://canvas.stanford.edu/courses/193714/modules/306307 "Readings")
+- [Weekly check-in form](https://canvas.stanford.edu/courses/193714/assignments/610092 "Week 1 check-in form") (due Sunday night before week 2)
 
-- **Readings:** STUFF FROM THE HANDBOOK
-- Will send out a survey with preferred workshop timing
+## Week 2: Textiles
 
-## Week 2: Picking up Materials
+By week 2, we'll hopefully have schedules sorted out so you can have a time to come to the Textile Makerspace and explore different materials and methods.
 
-Come to the Textile Makerspace and pick up some materials (if you don't already have your own). Make a very simple visualization based on data from your life this week.
+For this week:
 
-- **Reading:** SOME STUFF ON DATA
-- **Workshop:** Reading Sewing Patterns
+- [Come to the Textile Makerspace](https://textilemakerspace.stanford.edu/hours/) and try something! Sew two pieces of fabric together, pick up some yarn and a crochet hook and see what you can do with them, stab some things with a needle felting kit, etc. Makerspace staff know at least the basics of the major tools and methods, but if you need support for something specific, email Quinn. If you want to come during the DLCL 203 office hours, [add yourself to the spreadsheetLinks to an external site.](https://docs.google.com/document/d/1FodEsQxtP0-OZgi0nVJdW7l-bljH6mwYQXT4fd7M82E/edit#heading=h.ky5t3xp3nwwa).
+- Workshops will be scheduled starting next week, but there's a list of [guides and resources](https://canvas.stanford.edu/courses/193714/pages/textile-method-resources "Textile method resources") you can start looking through on your own. Let Quinn know if you have a favorite resource that you use and we'll get it added to the list!
+- Read through at [at least three examples of data visualization with textiles from this list](https://canvas.stanford.edu/courses/193714/pages/examples-of-data-visualization-with-textiles "Examples of data visualization with textiles").
+- [Weekly check-in form](https://canvas.stanford.edu/courses/193714/assignments/614048 "Week 2 check-in form") will have a section reflecting on your experiment in the Makerspace
+- [Sign up for a week 4 individual check-in with QuinnLinks to an external site.](https://docs.google.com/spreadsheets/d/1jBMTaZDNdtx2WjrwKdBOD95zQm0GNMOrdSWMicla69g/edit?usp=sharing)
 
-## Week 3: Trying Textile Methods
+## Week 3: Data
 
-Pick a textile method and spend some time trying it out! Think about how you might use it to represent data.
+Data is something that you make -- it doesn't exist without a human making decisions about what to count and how. In this class, you might choose to create your own data, or you might choose data that you find in the world. In either case, it's important to pay attention to the decisions you (or others) have made in data collection, because that may shape how you visualize the data.
 
-- **Workshop:** Crochet
+This week, you'll be making some data on your own, and keeping that data in mind as you experiment with textiles.
 
-## Week 4: Final Project Plans
+- Make and submit a spreadsheet with at least 10 pieces of data (rows in the spreadsheet) drawn from your life this week
+- Come to the Textile Makerspace and try a different thing than last week! As you're playing with it, think about some of the ways you could translate your data into that medium. What could each row of your spreadsheet correspond to? Pieces of fabric? Crochet stitches?
+- Workshops continue in response to student needs
+- Weekly check-in form will have a section reflecting on your experiment in the Makerspace
 
+## Week 4: Check-In
 
-## Week 5: Putting it Into Practice
+In week 2, you'll have signed up for a half-hour check-in meeting with Quinn where we'll talk through what you're thinking for your final project, both on the data and textile side of things. You don't need a plan walking into the meeting, but coming with some ideas will help -- and we'll figure out a plan from there.
 
-- Meet with Quinn to talk about your final project
-- Practice time for midterm (optional)
+- In-person one-on-one meeting with Quinn
+- Workshops continue in response to student needs
+- Weekly check-in form
 
-- **Workshop:** Hand embroidery
+## Week 5: Translating Data to Textiles
 
-## Week 6: Just Make Something
+Once you have a basic plan for your final project, it's worth spending some more time thinking through the translation between data and textiles. This week you'll look at a few examples of how people have done that for different projects, as inspiration for your final project. You'll also have the chance to practice for the midterm, or do the midterm early if week 6 is bad for you.
 
-- **Midterm:** you have 90 min to make something based on one of 3 example data sets
-- **Workshop:** topics as needed
+- Readings TBD
+- Workshops continue in response to student needs
+- Sample midterm prompts will be available at the Makerspace if you want to practice (optional)
+- Weekly check-in form
 
-## Week 7: Translating Data
+## Week 6: Midterm
 
-- Thinking through the data for your final project
-- **Workshop:** topics as needed
+The midterm is designed to help you get over any feelings of trepidation or being stuck with your final project. You'll have 2-3 data sets (with example visualizations) to choose from, and 90 minutes in the Textile Makerspace to make something with textiles creatively re-interpreting that data.
 
-## Week 8: Visualization Takes Time
+- Do the midterm (you can do it early if you're busy week 6)
+- Workshops continue in response to student needs
+- Weekly check-in form
 
-- Spend time on your final project
-- **Workshop:** topics as needed
+## Week 7: Data Prep
 
-## Week 9: Final Project Work
+You don't always have to have your data ready before you start making something, but it helps. The focus for this week is on the data for your final project. If your data is something you need to find, have you found it? If it doesn't exist, or not in the form you need, what can you use instead? If you're collecting the data for yourself, how is that working? Are you close to having what you need? Is it worth rethinking your data collection approach?
+
+- Data office hours with Quinn
+- Last week of workshops (probably)
+- Weekly check-in form
+
+## Week 8: Making
+
+The end of the quarter is coming, and this is the week to get down to work on your final project, if you haven't already. How long is it taking to implement your original vision? Given the amount of time left in the quarter, is it actually realistic to finish? If not, how can you revise it to keep some of your original vision, but still finish in time?
+
+- Weekly check-in form
+
+## Week 9: Finishing
+
+Keep working on your final project (revised, if necessary) in preparation for the end of the quarter. Reach out to Quinn for support if needed.
+
+- Weekly check-in form
 
 ## Week 10: Wrap-Up
+
+... And you're done! Or you're not. Even with a revised plan, you may not be able to finish. That's okay: submit what you have, along with a 2-3 page write-up covering the following things:
+
+1.  What was your data? How did you find or make it? What did you learn through that process?
+2.  Walk me through how you translated your data to textiles. Give me enough information about how it was implemented to understand the images of what you created.
+3.  What was the hardest part? What part are you happiest with? What would you do differently?
